@@ -8,7 +8,7 @@ I’m passionate about **high-performance computing**, **cross-platform developm
 ---
 
 ## 🔬 Current Work & Projects
-- **HybridSort (Research Project)** – Developing a cache-efficient, SIMD-parallel sorting algorithm; preparing an academic research paper (not public yet).  
+- **HybridSort (Research Project)** – Developing a cache-efficient, SIMD-parallel sorting algorithm; preparing an academic research paper (Currently Writing).  
 - **[CrashCatch](https://github.com/keithpotz/CrashCatch)** – Cross-platform crash handling library with Linux & Windows support.  
 - **[DownloadFolderChanger](https://github.com/keithpotz/DownloadFolderChanger)** – Utility to customize and manage Windows download paths.  
 - **[Election-Prediction](https://github.com/keithpotz/Election-Prediction)** – Predictive modeling project in Python.  
