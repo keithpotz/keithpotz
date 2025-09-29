@@ -1,20 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,100:2F2F2F&height=200&section=header&text=Keith%20Pottratz&fontSize=50&fontColor=00FFCC&animation=scaleIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1E90FF&height=200&section=header&text=Keith%20Pottratz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
+# Hi, I'm Keith 👋  
 
-I’m a Computer Science student and software engineer passionate about building **high-performance algorithms** and **practical tools**.
-
-- 🔬 Currently preparing a research paper on **HybridSort**, a cache-efficient SIMD-parallel sorting algorithm (not public yet).  
-- 🛡️ Building [CrashCatch](https://github.com/keithpotz/CrashCatch) – a cross-platform crash handling library.  
-- 🗳️ Developed [Election-Prediction](https://github.com/keithpotz/Election-Prediction) – a Python-based predictive model.  
-- 📂 Created [DownloadFolderChanger](https://github.com/keithpotz/DownloadFolderChanger) – a utility to manage Windows download paths.  
-- 📈 Enjoy solving problems in algorithms, systems, and user-centered applications.
+I’m a Computer Science student, Navy veteran, and software engineer with a focus on **algorithms, systems, and user-centered application design**.  
+I’m passionate about **high-performance computing**, **cross-platform development**, and creating tools that balance **efficiency** and **real-world impact**.  
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages**: C++, Python, Swift, Java, Kotlin, VB.NET  
-- **Frameworks/Tools**: OpenMP, AVX2, CUDA, SwiftUI, Firebase, MongoDB, MySQL  
-- **Other**: GitHub Actions, Docker, CMake, Xcode, Android Studio  
+## 🔬 Current Work & Projects
+- **HybridSort (Research Project)** – Developing a cache-efficient, SIMD-parallel sorting algorithm; preparing an academic research paper (not public yet).  
+- **[CrashCatch](https://github.com/keithpotz/CrashCatch)** – Cross-platform crash handling library with Linux & Windows support.  
+- **[DownloadFolderChanger](https://github.com/keithpotz/DownloadFolderChanger)** – Utility to customize and manage Windows download paths.  
+- **[Election-Prediction](https://github.com/keithpotz/Election-Prediction)** – Predictive modeling project in Python.  
+- **Other Projects** – Data structures/algorithms in C++ (`CplusplusDSA`), Investment tracking tools, and more.  
+
+---
+
+## 🛠️ Technical Skills  
+
+**Programming Languages**  
+C++ · Python · Swift · Java · Kotlin · VB.NET · JavaScript · MATLAB · SQL/MySQL · MongoDB  
+
+**Frameworks, Libraries, and Tools**  
+OpenMP · AVX2 · CUDA · Firebase · SwiftUI · Core Data · Android SDK · TensorFlow/Keras  
+
+**Development & DevOps**  
+CMake · GitHub Actions · Docker · Xcode · Android Studio · Visual Studio · Linux (POSIX)  
+
+**Specialized Areas**  
+- High-performance computing (parallelism, vectorization, GPU acceleration)  
+- Cross-platform mobile & desktop application development  
+- Systems design & crash resilience  
+- Machine learning experimentation and data analysis  
 
 ---
 
@@ -25,4 +42,8 @@ I’m a Computer Science student and software engineer passionate about building
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
-- ✉️ keith@example.com
+- ✉️ keith@example.com  
+
+---
+
+⭐️ “Always building at the intersection of **theory and practice** — from algorithm research to real-world applications.”  
