@@ -49,8 +49,8 @@ I’m passionate about **high-performance computing**, **cross-platform developm
 ---
 
 ## 📫 Connect  
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
-- ✉️ keith@example.com  
+- [LinkedIn](https://www.linkedin.com/in/keith-pottratz/)  
+- ✉️ keithpotz@gmail.com
 
 ---
 
