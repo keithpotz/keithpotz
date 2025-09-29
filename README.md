@@ -1,16 +1,28 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,100:2F2F2F&height=200&section=header&text=Keith%20Pottratz&fontSize=50&fontColor=00FFCC&animation=scaleIn&fontAlignY=35)
 
-<!--
-**keithpotz/keithpotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m a Computer Science student and software engineer passionate about building **high-performance algorithms** and **practical tools**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Currently preparing a research paper on **HybridSort**, a cache-efficient SIMD-parallel sorting algorithm (not public yet).  
+- 🛡️ Building [CrashCatch](https://github.com/keithpotz/CrashCatch) – a cross-platform crash handling library.  
+- 🗳️ Developed [Election-Prediction](https://github.com/keithpotz/Election-Prediction) – a Python-based predictive model.  
+- 📂 Created [DownloadFolderChanger](https://github.com/keithpotz/DownloadFolderChanger) – a utility to manage Windows download paths.  
+- 📈 Enjoy solving problems in algorithms, systems, and user-centered applications.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: C++, Python, Swift, Java, Kotlin, VB.NET  
+- **Frameworks/Tools**: OpenMP, AVX2, CUDA, SwiftUI, Firebase, MongoDB, MySQL  
+- **Other**: GitHub Actions, Docker, CMake, Xcode, Android Studio  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keithpotz&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
+- ✉️ keith@example.com
