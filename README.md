@@ -9,7 +9,7 @@ I’m passionate about **high-performance computing**, **cross-platform developm
 
 ## 🔬 Current Work & Projects  
 
-- **HybridSort (Research Project submitted to ACM)** – Developing a cache-efficient, SIMD-parallel sorting algorithm; preparing an academic research paper (not public yet).  
+- **HybridSort (Research Project submitted to ACM)** – Developing a cache-efficient, SIMD-parallel sorting algorithm; preparing an academic research paper (not public yet / Submitted to ACM for review).  
 
 ### Featured Repositories  
 [![CrashCatch](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=CrashCatch&theme=tokyonight)](https://github.com/keithpotz/CrashCatch)  
