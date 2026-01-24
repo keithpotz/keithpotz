@@ -15,7 +15,7 @@ I’m passionate about **high-performance computing**, **cross-platform developm
 [![CrashCatch](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=CrashCatch&theme=tokyonight)](https://github.com/keithpotz/CrashCatch)  
 [![DownloadFolderChanger](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=DownloadFolderChanger&theme=tokyonight)](https://github.com/keithpotz/DownloadFolderChanger)  
 [![Election-Prediction](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=Election-Prediction&theme=tokyonight)](https://github.com/keithpotz/Election-Prediction)  
-[![CplusplusDSA](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=CplusplusDSA&theme=tokyonight)](https://github.com/keithpotz/CplusplusDSA)  
+[![CplusplusDSA](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=CS499&theme=tokyonight)](https://github.com/keithpotz/CS499)
 
 ---
 
