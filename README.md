@@ -11,13 +11,18 @@ I’m passionate about **high-performance computing**, **cross-platform developm
 
 - **HybridSort (Research Project submitted to ACM)** – Developing a cache-efficient, SIMD-parallel sorting algorithm; preparing an academic research paper (not public yet / Submitted to ACM for review).  
 
-### Featured Repositories  
-[![CrashCatch](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=CrashCatch&theme=tokyonight)](https://github.com/keithpotz/CrashCatch)  
-[![CS 499](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=CS499&theme=tokyonight)]
-(https://github.com/keithpotz/CS499)
-[![DownloadFolderChanger](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=DownloadFolderChanger&theme=tokyonight)](https://github.com/keithpotz/DownloadFolderChanger)  
-[![Election-Prediction](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=Election-Prediction&theme=tokyonight)](https://github.com/keithpotz/Election-Prediction)  
+### Featured Repositories
+- **[CrashCatch](https://github.com/keithpotz/CrashCatch)**  
+  ![Stars](https://img.shields.io/github/stars/keithpotz/CrashCatch) ![Last Commit](https://img.shields.io/github/last-commit/keithpotz/CrashCatch)
 
+- **[CS 499](https://github.com/keithpotz/CS499)**  
+  ![Stars](https://img.shields.io/github/stars/keithpotz/CS499) ![Last Commit](https://img.shields.io/github/last-commit/keithpotz/CS499)
+
+- **[DownloadFolderChanger](https://github.com/keithpotz/DownloadFolderChanger)**  
+  ![Stars](https://img.shields.io/github/stars/keithpotz/DownloadFolderChanger) ![Last Commit](https://img.shields.io/github/last-commit/keithpotz/DownloadFolderChanger)
+
+- **[Election-Prediction](https://github.com/keithpotz/Election-Prediction)**  
+  ![Stars](https://img.shields.io/github/stars/keithpotz/Election-Prediction) ![Last Commit](https://img.shields.io/github/last-commit/keithpotz/Election-Prediction)
 
 ---
 
