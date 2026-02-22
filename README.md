@@ -13,9 +13,10 @@ I’m passionate about **high-performance computing**, **cross-platform developm
 
 ### Featured Repositories  
 [![CrashCatch](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=CrashCatch&theme=tokyonight)](https://github.com/keithpotz/CrashCatch)  
+[![CS 499](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=CS499&theme=tokyonight)](https://github.com/keithpotz/CS499)
 [![DownloadFolderChanger](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=DownloadFolderChanger&theme=tokyonight)](https://github.com/keithpotz/DownloadFolderChanger)  
 [![Election-Prediction](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=Election-Prediction&theme=tokyonight)](https://github.com/keithpotz/Election-Prediction)  
-[![CplusplusDSA](https://github-readme-stats.vercel.app/api/pin/?username=keithpotz&repo=CS499&theme=tokyonight)](https://github.com/keithpotz/CS499)
+
 
 ---
 
