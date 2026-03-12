@@ -12,6 +12,10 @@ I’m passionate about **high-performance computing**, **cross-platform developm
 - **HybridSort (Research Project submitted to ACM)** – Developing a cache-efficient, SIMD-parallel sorting algorithm; preparing an academic research paper (not public yet / Submitted to ACM for review).  
 
 ### Featured Repositories
+
+- **[CrashCatch Analyze Release](https://github.com/keithpotz/Crash-Catch-Analyzer-Release)**  
+  ![Stars](https://img.shields.io/github/stars/keithpotz/Crash-Catch-Analyzer-Release) ![Last Commit](https://img.shields.io/github/last-commit/keithpotz/Crash-Catch-Analyzer-Release)
+  
 - **[CrashCatch](https://github.com/keithpotz/CrashCatch)**  
   ![Stars](https://img.shields.io/github/stars/keithpotz/CrashCatch) ![Last Commit](https://img.shields.io/github/last-commit/keithpotz/CrashCatch)
 
