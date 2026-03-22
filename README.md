@@ -2,7 +2,7 @@
 
 # Hi, I'm Keith 👋  
 
-I’m a Computer Sciencentist, Navy veteran, and software engineer with a focus on **algorithms, systems, and user-centered application design**.  
+I’m a Computer Scientist, Navy veteran, and software engineer with a focus on **algorithms, systems, and user-centered application design**.  
 I’m passionate about **high-performance computing**, **cross-platform development**, and creating tools that balance **efficiency** and **real-world impact**.  
 
 ---
